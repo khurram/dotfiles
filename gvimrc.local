@@ -1,0 +1,9 @@
+" Set colourscheme
+color clouds
+
+" Adjust the window
+set go-=L
+set transparency=5
+
+" Text customisations
+set guifont=Panic\ Sans:h11

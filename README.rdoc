@@ -1,0 +1,10 @@
+= Q's Super Simple dotfiles
+
+This is how I like to run things.
+
+== Installation
+
+  git clone git://github.com/mistrQ/dotfiles ~/.dotfiles
+  cd ~/.dotfiles
+  rake install
+

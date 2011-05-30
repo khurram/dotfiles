@@ -1,0 +1,1 @@
+/Users/mistrq/.dotfiles/vim/gvimrc

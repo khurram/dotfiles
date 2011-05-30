@@ -1,0 +1,8 @@
+" Set colourscheme
+color clouds
+
+" Text customizations
+set wrap
+set autoindent
+set showmode
+set guifont=Panic\ Sans:h11
