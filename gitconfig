@@ -1,3 +1,5 @@
 [user]
 	name = Khurram
 	email = Q@Qbright.com
+[core]
+	excludesfile = /Users/mistrq/.gitignore
