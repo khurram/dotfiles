@@ -1,0 +1,2 @@
+# Alias vim for terminal use
+alias vim='mvim -v'

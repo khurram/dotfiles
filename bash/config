@@ -1,0 +1,10 @@
+# Setup terminal colours
+export LS_OPTIONS='--color=auto'
+export CLICOLOR='Yes'
+export LSCOLORS='Bxgxfxfxcxdxdxhbadbxbx'
+export PS1='\[\033[01;36m\]\u@\[\033[00m\]\w: '
+
+export rvm_path="$HOME/.rvm"
+
+# Load rvm
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
