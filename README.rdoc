@@ -1,6 +1,6 @@
 = Q's minimal dotfiles
 
-I try to keep my system as clean and close to factory build as possible, so my dotfiles are quite bare. I'm using Janus for MacVim so I've left my vim directory out as it's just the default.
+This is how I like to run things.
 
 == Installation
   git clone git://github.com/mistrQ/dotfiles ~/.dotfiles
@@ -10,3 +10,4 @@ I try to keep my system as clean and close to factory build as possible, so my d
 == Credits
 * Ryan Bates and his awesome dotfiles
 * Zach Holman
+* Janus for MacVim
