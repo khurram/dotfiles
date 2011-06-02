@@ -1,8 +1,11 @@
 " Set colourscheme
-color mustang
+color clouds
 
 " Text customizations
 set wrap
 set autoindent
 set showmode
 set guifont=Panic\ Sans:h11
+
+" Set default Nerdtree width
+let g:NERDTreeWinSize = 25
