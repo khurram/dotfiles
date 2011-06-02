@@ -9,3 +9,6 @@ set guifont=Panic\ Sans:h11
 
 " Set default Nerdtree width
 let g:NERDTreeWinSize = 25
+
+"Focus for different buffers
+set mousefocus
