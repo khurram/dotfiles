@@ -8,4 +8,3 @@
 == Credits
 * Ryan Bates and his awesome dotfiles
 * Zach Holman
-* Janus for MacVim
