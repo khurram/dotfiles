@@ -3,3 +3,6 @@ export LS_OPTIONS='--color=auto'
 export CLICOLOR='Yes'
 export LSCOLORS='Bxgxfxfxcxdxdxhbadbxbx'
 export PS1='\[\033[01;36m\]\u@\[\033[00m\]\w: '
+
+# rbenv
+eval "$(rbenv init -)"
