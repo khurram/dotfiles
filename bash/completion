@@ -1,3 +1,0 @@
-# Tab completion for git
-source /usr/local/Cellar/git/1.7.7/etc/bash_completion.d/git-completion.bash
-
