@@ -10,3 +10,6 @@ export PATH=/usr/local/sbin:$PATH
 
 # Tab completion for git
 source "/usr/local/Cellar/git/2.6.3/etc/bash_completion.d/git-completion.bash"
+
+# JEnv
+if which jenv > /dev/null; then eval "$(jenv init -)"; fi
