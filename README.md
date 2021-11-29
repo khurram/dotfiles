@@ -1,6 +1,6 @@
-= Khurram's dotfiles
+# Khurram's dotfiles
 
-== Components
+## Components
 
 There's a few special files in the hierarchy.
 
@@ -18,7 +18,7 @@ There's a few special files in the hierarchy.
   but still keep those autoloaded files in your home directory. These get
   symlinked in when you run `script/bootstrap`.
 
-== Installation
+## Installation
 Run this:
 
 ```sh
@@ -38,6 +38,6 @@ defaults, and so on. Tweak this script, and occasionally run `dot` from
 time to time to keep your environment fresh and up-to-date. You can find
 this script in `bin/`.
 
-== Credits
+## Credits
 * Ryan Bates and his awesome dotfiles
 * Zach Holman
