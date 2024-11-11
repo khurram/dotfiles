@@ -1,5 +1,5 @@
 # Taps
-tap 'homebrew/bundle'
+# tap 'homebrew/bundle'
 
 # Formulae
 brew 'git'
