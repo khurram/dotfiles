@@ -31,9 +31,6 @@ defaults write com.apple.dock orientation left
 # Hide recent apps from Dock
 defaults write com.apple.dock show-recents -bool false
 
-# Reset Launchpad
-find ~/Library/Application\ Support/Dock -name "*.db" -maxdepth 1 -delete
-
 # Show the ~/Library folder.
 chflags nohidden ~/Library
 
